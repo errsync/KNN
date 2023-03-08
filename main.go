@@ -1,10 +1,5 @@
 package main
 
-//This code in Go uses Dijkstra's algorithm to find the most optimal path starting from point A and going
-//through every given point. The points are represented by a struct with their x and y coordinates. The
-//distances between each point is calculated using Euclidean distance formula. The program outputs the path
-//in the form of a list, with each point represented by its name or label.
-
 import (
 	"fmt"
 	"math"
