@@ -23,5 +23,5 @@ Run
 
 ## Screenshots
 
-![App Screenshot](screenshots/screenshot.odg)
+![App Screenshot](screenshots/screenshot.png)
 
