@@ -1,6 +1,6 @@
 
-# Dijkstry
-Program for finding the shortest path in a graph
+# KNN
+Program for finding the shortest path in a graph using Nearest Neighbor Algorithm.
 
 
 ## Run Locally
