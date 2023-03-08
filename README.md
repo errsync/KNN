@@ -8,7 +8,7 @@ Program for finding the shortest path in a graph using Nearest Neighbor Algorith
 Clone the project
 
 ```bash
-  git clone https://github.com/errsync/dijskrty
+  git clone https://github.com/errsync/KNN.git
 ```
 
 Go to the project directory
